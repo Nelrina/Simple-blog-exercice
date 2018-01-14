@@ -1,0 +1,54 @@
+h1 {
+	text-align: center;
+	font-family: 'Lobster', cursive;
+	color: #E91E63;
+	font-size: 3em;
+}
+
+h2 a {
+	color: #E91E63;
+	text-decoration: none;
+}
+
+h2 a:hover {
+	color: #F06292;
+}
+
+section {
+	margin: auto;
+	width: 70%;
+	max-width: 800px;
+	border: 20px solid #cccccc;
+	font-family: 'Ubuntu', sans-serif;
+	padding: 20px;
+}
+
+blockquote {
+	border-left: 5px solid #CDDC39;
+	padding-left: 5px;
+}
+
+.date {
+	text-transform: uppercase;
+	letter-spacing: 0.3em;
+	color: #0288D1;
+}
+
+hr.style9 {
+	border-top: 1px dashed #aaaaaa;
+	border-bottom: 1px dashed #dddddd;
+	margin: 20px 0;
+}
+
+.comment a {
+	color: #FFC107;
+	text-decoration: none;
+}
+
+.comment a:hover {
+	color: #FFD54F;
+}
+
+.comment {
+	text-align: right;
+}
